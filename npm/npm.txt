@@ -1,0 +1,10 @@
+// npm commands
+
+npm init
+package name : name
+description : message
+author : Himanshi Bansal
+Is this ok : yes
+
+for npm packages : refer npm official website
+to install package : npm i packageName
